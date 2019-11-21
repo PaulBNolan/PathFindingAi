@@ -1,0 +1,32 @@
+﻿  Map.cpp
+C:\Users\halo2\Documents\AiLabs\AiLab6\Map.cpp(9,59): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\halo2\Documents\AiLabs\AiLab6\Map.cpp(9,59): warning C4244:         with
+C:\Users\halo2\Documents\AiLabs\AiLab6\Map.cpp(9,59): warning C4244:         [
+C:\Users\halo2\Documents\AiLabs\AiLab6\Map.cpp(9,59): warning C4244:             T=float
+C:\Users\halo2\Documents\AiLabs\AiLab6\Map.cpp(9,59): warning C4244:         ]
+C:\Users\halo2\Documents\AiLabs\AiLab6\Map.cpp(9,51): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\halo2\Documents\AiLabs\AiLab6\Map.cpp(9,51): warning C4244:         with
+C:\Users\halo2\Documents\AiLabs\AiLab6\Map.cpp(9,51): warning C4244:         [
+C:\Users\halo2\Documents\AiLabs\AiLab6\Map.cpp(9,51): warning C4244:             T=float
+C:\Users\halo2\Documents\AiLabs\AiLab6\Map.cpp(9,51): warning C4244:         ]
+C:\Users\halo2\Documents\AiLabs\AiLab6\Map.cpp(16,8): warning C4244:  'initializing': conversion from 'T' to 'int', possible loss of data
+C:\Users\halo2\Documents\AiLabs\AiLab6\Map.cpp(16,8): warning C4244:         with
+C:\Users\halo2\Documents\AiLabs\AiLab6\Map.cpp(16,8): warning C4244:         [
+C:\Users\halo2\Documents\AiLabs\AiLab6\Map.cpp(16,8): warning C4244:             T=float
+C:\Users\halo2\Documents\AiLabs\AiLab6\Map.cpp(16,8): warning C4244:         ]
+C:\Users\halo2\Documents\AiLabs\AiLab6\Map.cpp(17,8): warning C4244:  'initializing': conversion from 'T' to 'int', possible loss of data
+C:\Users\halo2\Documents\AiLabs\AiLab6\Map.cpp(17,8): warning C4244:         with
+C:\Users\halo2\Documents\AiLabs\AiLab6\Map.cpp(17,8): warning C4244:         [
+C:\Users\halo2\Documents\AiLabs\AiLab6\Map.cpp(17,8): warning C4244:             T=float
+C:\Users\halo2\Documents\AiLabs\AiLab6\Map.cpp(17,8): warning C4244:         ]
+C:\Users\halo2\Documents\AiLabs\AiLab6\Map.cpp(26,8): warning C4244:  'initializing': conversion from 'T' to 'int', possible loss of data
+C:\Users\halo2\Documents\AiLabs\AiLab6\Map.cpp(26,8): warning C4244:         with
+C:\Users\halo2\Documents\AiLabs\AiLab6\Map.cpp(26,8): warning C4244:         [
+C:\Users\halo2\Documents\AiLabs\AiLab6\Map.cpp(26,8): warning C4244:             T=float
+C:\Users\halo2\Documents\AiLabs\AiLab6\Map.cpp(26,8): warning C4244:         ]
+C:\Users\halo2\Documents\AiLabs\AiLab6\Map.cpp(27,8): warning C4244:  'initializing': conversion from 'T' to 'int', possible loss of data
+C:\Users\halo2\Documents\AiLabs\AiLab6\Map.cpp(27,8): warning C4244:         with
+C:\Users\halo2\Documents\AiLabs\AiLab6\Map.cpp(27,8): warning C4244:         [
+C:\Users\halo2\Documents\AiLabs\AiLab6\Map.cpp(27,8): warning C4244:             T=float
+C:\Users\halo2\Documents\AiLabs\AiLab6\Map.cpp(27,8): warning C4244:         ]
+  AiLab6.vcxproj -> C:\Users\halo2\Documents\AiLabs\AiLab6\Debug\AiLab6.exe
